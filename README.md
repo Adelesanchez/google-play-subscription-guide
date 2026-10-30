@@ -16,7 +16,7 @@
 2. 注册时或注册后，把账号的**国家/地区**设为目标区。想省钱选**新加坡 / 尼日利亚 / 土耳其**（订阅费便宜很多），追求省事选美国。
 3. 地址信息用美国/新加坡地址生成器生成一个即可（视频里用的是 meiguodizhi.com），**先记下来，绑卡时要用**。
 
-![地址生成器](images/originals/02-address-generator.svg)
+![地址生成器](images/originals/02-address-generator.jpg)
 
 ▲ 视频中演示：地址生成器里选好州/城市，复制一整套地址信息备用
 
@@ -24,19 +24,19 @@
 
 1. 登录谷歌账号，进入 **Google 付款中心**（pay.google.com），点「添加付款方式」。
 
-![添加付款方式](images/originals/01-add-payment.svg)
+![添加付款方式](images/originals/01-add-payment.jpg)
 
 ▲ Google Pay 添加付款方式入口
 
 2. 选择「信用卡/借记卡」。地区按第一步定的选（视频演示选新加坡）。**换地区 = 换一套全新地址资料**，国家、账单地址、姓名必须互相一致。
 
-![Google支付中心](images/originals/03-google-pay-add-card.svg)
+![Google支付中心](images/originals/03-google-pay-add-card.jpg)
 
 ▲ Google 付款中心，已有一张 Mastercard，点「添加付款方式」继续加卡
 
 3. 填卡号、有效期、CVC，**姓名用拼音、账单地址填第一步生成的海外地址**。
 
-![填写卡信息](images/originals/04-card-details-us-address.svg)
+![填写卡信息](images/originals/04-card-details-us-address.jpg)
 
 ▲ 填写卡信息弹窗：卡号 + 账单地址，与地区保持一致
 
@@ -50,17 +50,17 @@
 
 5. 绑定成功后，付款中心会出现你的卡：
 
-![绑卡成功](images/originals/05-card-added-mastercard.svg)
+![绑卡成功](images/originals/05-card-added-mastercard.jpg)
 
 ▲ 绑卡成功，Mastercard 已挂到账号上
 
-![地区和账单地址](images/originals/06-region-billing-address.svg)
+![地区和账单地址](images/originals/06-region-billing-address.jpg)
 
 ▲ 「地区和个人资料部分是空的」时，在这里补齐地区与账单地址
 
 6. 虚拟U卡用户：把 Bitget/Bybit 后台的卡片信息直接复制粘贴过来即可。
 
-![复制粘贴卡信息](images/originals/14-copy-card-details.svg)
+![复制粘贴卡信息](images/originals/14-copy-card-details.jpg)
 
 ▲ 视频提示：将虚拟卡的信息复制粘贴过来即可
 
@@ -68,11 +68,11 @@
 
 1. 手机上登录同一个谷歌账号，打开 Play 商店 → 付款方式，确认刚绑的卡已经同步出现。
 
-![谷歌支付已配置](images/originals/08-google-pay-ready.svg)
+![谷歌支付已配置](images/originals/08-google-pay-ready.jpg)
 
 ▲ 视频演示：「我们的谷歌支付已经配置完毕」
 
-![Google Play 登录与充值入口](images/originals/09-google-play-topup.svg)
+![Google Play 登录与充值入口](images/originals/09-google-play-topup.jpg)
 
 ▲ 原始教程补充配图：Google Play 登录与充值入口
 
@@ -82,25 +82,25 @@
 
 1. 在 ChatGPT App 内点升级 Plus，结算方式选 **Google Play**（谷歌代收）。
 
-![ChatGPT Plus 订阅页](images/originals/11-chatgpt-plus.svg)
+![ChatGPT Plus 订阅页](images/originals/11-chatgpt-plus.jpg)
 
 ▲ ChatGPT Plus 订阅页：我们可以通过绑定银联卡的方式订阅
 
 2. 其他服务同理：YouTube Premium、Gemini 等都可以走同一条 Play 支付通道。
 
-![YouTube Premium](images/originals/13-youtube-premium.svg)
+![YouTube Premium](images/originals/13-youtube-premium.jpg)
 
 ▲ YouTube Premium 同样可以通过该方法去订阅
 
 3. 免费档位参考：ChatGPT Go 这类低价/免费档也能走 Play 渠道。
 
-![ChatGPT Go](images/originals/12-chatgpt-go.svg)
+![ChatGPT Go](images/originals/12-chatgpt-go.jpg)
 
 ▲ ChatGPT Go 档位也可以看到并订阅
 
 4. 付款方式里确认走刚绑的卡，确认支付，完成。之后每月自动扣款，随时可在 Google Pay 里取消。
 
-![绑定成功手机端](images/originals/10-mobile-linked.svg)
+![绑定成功手机端](images/originals/10-mobile-linked.jpg)
 
 ▲ 手机端显示绑定成功
 
@@ -108,7 +108,7 @@
 
 同一个 Plus，不同区差价接近 **10 倍**——这就是为什么要选对地区：
 
-![费用对比](images/originals/07-region-price-comparison.svg)
+![费用对比](images/originals/07-region-price-comparison.jpg)
 
 ▲ ChatGPT Plus 订阅费用对比：美国 $19.99 ≈ ¥139；新加坡 S$30.32 ≈ ¥166；泰国 ฿748 ≈ ¥167（泰国含 7% 增值税，最便宜）
 
