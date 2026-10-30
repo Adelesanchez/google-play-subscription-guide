@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="690" viewBox="0 0 1200 690" role="img" aria-labelledby="title desc">
+  <title id="title">添加付款方式示意图</title>
+  <desc id="desc">Google 付款中心页面示意，突出添加付款方式按钮。</desc>
+  <rect width="1200" height="690" rx="24" fill="#e2e8f0"/>
+  <rect x="90" y="55" width="1020" height="580" rx="20" fill="#ffffff"/>
+  <rect x="90" y="55" width="1020" height="65" rx="20" fill="#f1f5f9"/>
+  <circle cx="130" cy="88" r="8" fill="#ef4444"/><circle cx="158" cy="88" r="8" fill="#f59e0b"/><circle cx="186" cy="88" r="8" fill="#22c55e"/>
+  <g font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <text x="145" y="175" font-size="29" font-weight="600" fill="#1e293b">Google 付款中心（示意）</text>
+    <text x="145" y="235" font-size="23" fill="#475569">付款方式</text>
+    <rect x="145" y="275" width="910" height="150" rx="18" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+    <text x="600" y="340" text-anchor="middle" font-size="24" fill="#475569">添加本人持有的信用卡或借记卡</text>
+    <rect x="440" y="370" width="320" height="65" rx="12" fill="#2563eb"/>
+    <text x="600" y="412" text-anchor="middle" font-size="24" font-weight="600" fill="#ffffff">添加付款方式</text>
+    <rect x="265" y="495" width="670" height="75" rx="14" fill="#eff6ff"/>
+    <text x="600" y="542" text-anchor="middle" font-size="20" fill="#1d4ed8">如果没有此选项，请查看当前账号与地区的官方提示</text>
+  </g>
+</svg>
